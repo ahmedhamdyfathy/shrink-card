@@ -11,7 +11,7 @@ img{
     
 }
 #container{
-    background-color: rgba(116, 93, 93, 0.822);
+    background-color: rgba(211, 99, 99, 0.116);
     padding: 20px;
     border:2px outset rgba(228, 226, 223, 0.842);
   width: 60%;
@@ -27,12 +27,12 @@ img{
     border-spacing: 50px 50px;
  }
 .animal-info {
-    background-color: rgb(148, 178, 182);
+    background-color: rgb(235, 195, 150);
     width: 83%;
     margin:20px auto;
     text-align: left;
     padding:25px;
-    border:2px outset rgba(228, 226, 223, 0.842);
+    border:2px outset rgba(151, 149, 146, 0.842);
 
     
 }
