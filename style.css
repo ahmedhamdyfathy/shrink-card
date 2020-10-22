@@ -1,0 +1,48 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin:15px;
+  
+   
+}
+img{
+    width: 90%;
+    height: 500px;
+    
+}
+#container{
+    background-color: rgba(116, 93, 93, 0.822);
+    padding: 20px;
+    border:2px outset rgba(228, 226, 223, 0.842);
+  width: 60%;
+  margin: auto;
+   text-align: center;
+   
+}
+ #container h1{
+     text-align:left;
+     padding: 10px 30px;
+ }
+ #card{
+    border-spacing: 50px 50px;
+ }
+.animal-info {
+    background-color: rgb(148, 178, 182);
+    width: 83%;
+    margin:20px auto;
+    text-align: left;
+    padding:25px;
+    border:2px outset rgba(228, 226, 223, 0.842);
+
+    
+}
+#interesting-fact {
+    font-style: italic;
+}
+li{
+    list-style-type: none;
+}
+li span{
+    font-weight: bold;
+
+}
